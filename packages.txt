@@ -1,6 +1,5 @@
 matplotlib-dev
 pandas-dev
-geopy-dev
 numpy-dev
 webbrowser-dev
 streamlit-dev
