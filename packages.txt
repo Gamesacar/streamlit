@@ -6,4 +6,4 @@ webbrowser-dev
 streamlit-dev
 requests-dev
 gspread-dev
-oau-devth2client
+oauth2client-dev
