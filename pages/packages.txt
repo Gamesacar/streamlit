@@ -1,0 +1,9 @@
+matplotlib-dev
+pandas-dev
+numpy-dev
+webbrowser-dev
+streamlit-dev
+requests-dev
+gspread-dev
+oauth2client-dev
+streamlit-lottie-dev
