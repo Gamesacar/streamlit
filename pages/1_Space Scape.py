@@ -38,7 +38,7 @@ url = 'https://unity.com/es/download'
 if st.button('USA UNITY'):
     webbrowser.open_new_tab(url)
 
-video_file = open('C:/Users/sajoh/Desktop/multipagidaspace/video.mp4','rb')
+video_file = open('video.mp4','rb')
 video_bytes = video_file.read()
 st.video(video_file)
 
