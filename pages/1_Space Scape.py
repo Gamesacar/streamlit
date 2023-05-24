@@ -23,7 +23,7 @@ st.markdown("# SPACE SCAPE 🕹️")
 st.sidebar.header("GOTY 💀💀💀")
 st.write("""ESPACE SCAPE es un juego 3D de aventura desarollado por Daniel Camacho y Santiago herrera
        con el motor de desarrollo de video juegos UNITY """)
-image = Image.open('mapa.png')
+image = Image.open('mapa.PNG')
 st.image(image, caption='MAPA MENTAL')
 
 st.markdown("# 🔧 UNITY 🛠")
