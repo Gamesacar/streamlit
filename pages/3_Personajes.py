@@ -47,7 +47,7 @@ st.markdown("""<p style='text-align: justify;'>
 st.markdown("# :red[ENEMIGOS] 👽")
 
 # Colocar las imágenes en una lista
-images = ['enemigo2.png',
+images = ['Enemigo2.png',
           'zyro.png',
           'enemy.jpeg',
           'enemy2.jpeg']
